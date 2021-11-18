@@ -1,5 +1,9 @@
 fx_version 'bodacious'
 game 'gta5'
+name "ak47_nitro"
+author "MenanAk47 (MenanAk47#3129)"
+description "MenanAk47 - Optimized Nitro"
+version "1.0"
 
 server_scripts{
 	'config.lua',
