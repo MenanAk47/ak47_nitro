@@ -1,6 +1,7 @@
 <h1>NITRO SYSTEM FOR GTA 5 FIVEM SERVER | ESX FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$5</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/mDKKUKSi2Sk">YouTube</a></p>
+<p><strong>Not compatible with ox/linden inventory </strong>(all other inventory works except this one)</p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Cylinder installation.</li>
